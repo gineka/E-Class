@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\intan\Herd\e-class-kas\resources\views/Home.blade.php ENDPATH**/ ?>
